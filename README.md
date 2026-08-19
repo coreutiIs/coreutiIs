@@ -1,5 +1,3 @@
-
-TechStack \n
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-b?logo=c%2B%2B&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Luau-b?logo=luau&logoColor=white&labelColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/Clang-LLVM-b?logo=llvm&logoColor=grey&labelColor=white&color=grey)
